@@ -1,7 +1,7 @@
 class InnerAddAllDigits {
 
   public void addDigits() {
-    int num = 123415;
+    int num = 12345;
     int sum = 0;
 
     num = num / 10;
